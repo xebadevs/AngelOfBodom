@@ -11,4 +11,8 @@ Deployment of a Blog created with WordPress
 - Smash Balloon Instagram Feed
 - Starter Templates
 - Unlimited Elements for Elementor
+- WP Headers and Footers
 - WPForms
+
+## Extra
+- Custom CSS
