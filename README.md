@@ -1,18 +1,23 @@
 # Blog Prototype 1 (WordPress) 📄
 
 Deployment of a Blog created with WordPress
-
-## Tools
-- Combination between Native Blocks and Elementor
+<br>
+<br>
 
 ## Plugins selected
-- Elementor
-- Mobile Menu
-- Smash Balloon Instagram Feed
+
+### Design
+- Blocks + Elementor
 - Starter Templates
 - Unlimited Elements for Elementor
 - WP Headers and Footers
+- Mobile Menu
+
+### Social Media
+- Smash Balloon Instagram Feed
+
+### Contact
 - WPForms
 
-## Extra
+## Extras
 - Custom CSS
