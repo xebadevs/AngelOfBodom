@@ -13,6 +13,9 @@ Deployment of a Blog created with WordPress
 - WP Headers and Footers
 - Mobile Menu
 
+### Security
+- WPS Hide Login
+
 ### Cache
 - WP Fastest Cache
 
@@ -21,6 +24,9 @@ Deployment of a Blog created with WordPress
 
 ### Contact
 - WPForms
+
+### Analytics
+- Independent Analytics - Google Analytics Alternative for WordPress
 
 ## Extras
 - Custom CSS
