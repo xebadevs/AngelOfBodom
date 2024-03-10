@@ -13,6 +13,9 @@ Deployment of a Blog created with WordPress
 - WP Headers and Footers
 - Mobile Menu
 
+### Cache
+- WP Fastest Cache
+
 ### Social Media
 - Smash Balloon Instagram Feed
 
