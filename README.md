@@ -1,6 +1,8 @@
 # Blog Prototype 1 (WordPress) 📄
 
 Deployment of a Blog created with WordPress
+Complete functionallity, bud adaptable according to customer's requests
+Works like a prototype for potential clients
 <br>
 <br>
 
