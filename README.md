@@ -1,8 +1,9 @@
 # Blog Prototype 1 (WordPress) 📄
 
-Deployment of a Blog created with WordPress
-Complete functionallity, bud adaptable according to customer's requests
+Deployment of a Blog created with WordPress \
+Complete functionallity, but adaptable according to customer's requests \
 Works like a prototype for potential clients
+
 <br>
 <br>
 
@@ -29,6 +30,9 @@ Works like a prototype for potential clients
 
 ### Analytics
 - Independent Analytics - Google Analytics Alternative for WordPress
+
+<br>
+<br>
 
 ## Extras
 - Custom CSS
