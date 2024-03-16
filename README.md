@@ -36,3 +36,4 @@ Works like a prototype for potential clients
 
 ## Extras
 - Custom CSS
+- Custom Scripts
